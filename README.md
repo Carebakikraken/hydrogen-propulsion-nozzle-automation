@@ -75,7 +75,7 @@ The investigation focuses on:
 </p>
 
 <p align="center">
-  <img src="Images/2.png" width="850"/>
+  <img src="Images/3.png" width="850"/>
 </p>
 
 <p align="center">
