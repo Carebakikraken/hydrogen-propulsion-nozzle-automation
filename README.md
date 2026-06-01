@@ -71,11 +71,11 @@ The investigation focuses on:
 ### Automation Code & Logic
 
 <p align="center">
-  <img src="Images/code-logic-1.png" width="850"/>
+  <img src="Images/1.png" width="850"/>
 </p>
 
 <p align="center">
-  <img src="Images/code-logic-2.png" width="850"/>
+  <img src="Images/2.png" width="850"/>
 </p>
 
 <p align="center">
